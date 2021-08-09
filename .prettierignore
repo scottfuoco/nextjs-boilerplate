@@ -1,0 +1,5 @@
+.editorconfig
+package-lock.json
+.next/
+build/
+*.yaml
